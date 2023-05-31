@@ -31,7 +31,6 @@ USE_PASSAGE: 'push-deer',
         {
           type: '生日', name: '少爷', year: '1996', date: '02-02',
         },
-        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
           type: '生日', name: '肥仔', year: '1998', date: '09-29',
         },
